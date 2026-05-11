@@ -1,5 +1,13 @@
 # 设计与规划
 
+## GitHub 仓库
+
+仓库地址：https://github.com/CengSin/develop-workflow
+
+### 初始化内容
+- 创建了 `.gitignore`，忽略 `.env`、`.idea/`、构建产物等敏感文件
+- 通过 GitHub MCP 推送了完整的项目代码
+
 ## README
 
 [README.md](./README.md) 项目说明文档，包含：
